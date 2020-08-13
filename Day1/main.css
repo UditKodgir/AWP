@@ -1,0 +1,21 @@
+/* Internal CSS  */
+
+body{
+    border: black solid;
+    border-width: 5px;
+    border-radius: 10px;
+    background-color: pink;
+}
+
+.Internal1{
+    align-items: center;
+    text-align: center;
+    margin: 10px;
+    padding: 10px;
+    color: red;
+    border: 5px solid rgb(10, 10, 200);
+    border-radius: 10px;
+    background-color: yellow;
+    font-weight: bold;
+    font-size: xx-large;
+}
