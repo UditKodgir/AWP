@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        
+        <meta name="viewport"
+            content="width=device-width, initial-scale=1.0"/>
+    
+        <title>Javascript</title>
+
+        <style>
+            .Internal{
+                font-size: larger;
+                border: black solid;
+                border-radius: 10px;
+                background-color: pink;
+                margin: 10px;
+                padding: 10px;
+            }
+
+            .divInternal{
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+                margin: 10px;
+                padding: 10px;
+                border-radius: 10px;
+            }
+        </style>
+
+        <!-- Internal Javascript -->
+        
+        <script>
+        
+            function Internal() {
+                alert("Internal Javascript");
+            }
+
+        </script>
+
+        <!-- External Javascript -->
+        
+        <script src="main.js"></script>
+  
+    </head>
+  
+    <body>
+        <div style="display: flex;
+                flex-direction: column;
+                align-items: center;
+                margin: 10px;
+                padding: 10px;
+                height: 100%;
+                width: 100%;">
+        
+        <!-- In Line JavaScript -->
+        
+        <div class="divInternal">
+        <button class="Internal" onclick="alert('In Line Javascript')">
+            Click Me for In Line Javascript</button>
+        </div>
+        
+        <div class="divInternal">
+        <button class="Internal" onclick="Internal()">
+            Click Me for Internal Javascript</button>
+        </div>
+
+        <div class="divInternal">
+        <button class="Internal" onclick="External1()">
+            Click Me for External Javascript</button>
+        </div>
+        
+        </div>
+
+    </body>
+</html>
