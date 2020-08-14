@@ -1,5 +1,9 @@
 # AWP
 
+### CV
+
+https://uditkodgir.github.io/AWP/CV/
+
 ### Day 1
 
 https://uditkodgir.github.io/AWP/Day1/index.html
