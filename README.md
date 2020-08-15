@@ -72,7 +72,7 @@ https://uditkodgir.github.io/AWP/What's Upp/index.html
 
 ### Calculator
 
-https://uditkodgir.github.io/AWP/Calculator/index.html
+https://uditkodgir.github.io/AWP/calculator/index.html
 
 
 
