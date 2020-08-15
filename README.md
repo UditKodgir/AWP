@@ -62,12 +62,12 @@ https://uditkodgir.github.io/AWP/Like/index.html
 
 ### Resume
 
-https://uditkodgir.github.io/AWP/Resume/index.html
+https://uditkodgir.github.io/AWP/Resume/
 
 
 ### What's Upp
 
-https://uditkodgir.github.io/AWP/What's Upp/index.html
+https://uditkodgir.github.io/AWP/App/index.html
 
 
 ### Calculator
