@@ -44,3 +44,36 @@ https://uditkodgir.github.io/AWP/Day9/index.html
 
 https://uditkodgir.github.io/AWP/Day10/index.html
 
+https://uditkodgir.github.io/AWP/Day10/1.html
+
+https://uditkodgir.github.io/AWP/Day10/boot.html
+
+### Chess
+
+https://uditkodgir.github.io/AWP/Chess/index.html
+
+### Grosary
+
+https://uditkodgir.github.io/AWP/Grosary/index.html
+
+### Like
+
+https://uditkodgir.github.io/AWP/Like/index.html
+
+### Resume
+
+https://uditkodgir.github.io/AWP/Resume/index.html
+
+
+### What's Upp
+
+https://uditkodgir.github.io/AWP/What's Upp/index.html
+
+
+### Calculator
+
+https://uditkodgir.github.io/AWP/Calculator/index.html
+
+
+
+
